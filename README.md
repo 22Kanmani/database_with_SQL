@@ -1,7 +1,7 @@
-[![Open in Visual Studio Code]]
+
 ### DB_with_SQL
 
-In this assignment, you will build a database using the "pension_2014.csv". The name of the database is "pension2014". In this database, you will have four tables:
+In this project, you will build a database using the "pension_2014.csv". The name of the database is "pension2014". In this database, you will have four tables:
 1. geotb(geoid:text, geoname:text) primary key: geoid
 2. govtypetb(govtypeid:integer, govtypelabel:text) primary key: govtypeid
 3. penitemtb(penitemid:integer, penitemlabel:text) primary key: penitemid
